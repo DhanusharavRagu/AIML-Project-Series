@@ -1,0 +1,7 @@
+streamlit
+random
+json
+pickle
+numpy
+tensorflow
+spacy
